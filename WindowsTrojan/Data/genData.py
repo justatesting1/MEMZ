@@ -1,4 +1,4 @@
-# Shitty script to convert MEMZs data into C source
+# Script to convert MEMZs data into C source
 
 import sys
 
